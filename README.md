@@ -1,12 +1,15 @@
 # The Cosmological Collider Flow
 
-[Cosmological Flow of Inflationary Correlators](https://google.com)
+This folder contains the movies of the time evolution of the Cosmological Collider signals, supplemental material of the following Letter:
+
+### Cosmological Flow of Inflationary Correlators
 
 * [Denis Werth](mailto:werth@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP)
 * [Lucas Pinol](mailto:pinol@iap.fr) -- Instituto Física Teórica (IFT) Madrid
 * [Sébastien Renaux-Petel](mailto:petel@iap.fr) -- CNRS, Institut d'Astrophysique de Paris (IAP)
 
-This folder contains the movies of the time evolution of the Cosmological Collider signals. We are interested in the three-point correlation function of the curvature perturbation in Fourier space, known as the bispectrum. Following standard conventions, we define the dimensionless shape function S such that 
+
+We are interested in the three-point correlation function of the curvature perturbation in Fourier space, known as the bispectrum. Following standard conventions, we define the dimensionless shape function S such that 
 
 $$
 \langle \zeta_{\vec{k}_1} \zeta_{\vec{k}_2} \zeta_{\vec{k}_3}\rangle' = \frac{(2\pi)^4}{(k_1 k_2 k_3)^2} \Delta_\zeta^4 S(k_1, k_2, k_3),
