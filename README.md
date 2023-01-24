@@ -1,5 +1,11 @@
 # The Cosmological Collider Flow
 
+[Cosmological Flow of Inflationary Correlators](https://google.com)
+
+* [Denis Werth](mailto:werth@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP)
+* [Lucas Pinol](mailto:pinol@iap.fr) -- Instituto Física Teórica (IFT) Madrid
+* [Sébastien Renaux-Petel](mailto:petel@iap.fr) -- CNRS, Institut d'Astrophysique de Paris (IAP)
+
 This folder contains the movies of the time evolution of the Cosmological Collider signals. We are interested in the three-point correlation function of the curvature perturbation in Fourier space, known as the bispectrum. Following standard conventions, we define the dimensionless shape function S such that 
 
 $$
@@ -30,4 +36,4 @@ For $\mu_{\rm{eff}} = 5, \rho/H = 5$
   <img src="CosmologicalColliderFlow_StrongMixing.gif">
 </p>
 
-Note that we have normalized the shape functions to unity in the equilateral configuration. The measure of time is expressed in number of efolds.
+Note that we have normalized the shape functions to unity in the equilateral configuration. The measure of time is expressed in number of efolds elapsed since Hubble horizon of the long mode.
