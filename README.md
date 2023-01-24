@@ -5,7 +5,7 @@ This folder contains the movies of the time evolution of the Cosmological Collid
 ### Cosmological Flow of Inflationary Correlators
 
 * [Denis Werth](mailto:werth@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP)
-* [Lucas Pinol](mailto:pinol@iap.fr) -- Instituto Física Teórica (IFT) Madrid
+* [Lucas Pinol](mailto:pinol@iap.fr) -- Instituto de Física Teórica (IFT) Madrid
 * [Sébastien Renaux-Petel](mailto:petel@iap.fr) -- CNRS, Institut d'Astrophysique de Paris (IAP)
 
 
@@ -39,4 +39,4 @@ For $\mu_{\rm{eff}} = 5, \rho/H = 5$
   <img src="CosmologicalColliderFlow_StrongMixing.gif">
 </p>
 
-Note that we have normalized the shape functions to unity in the equilateral configuration. The measure of time is expressed in number of efolds elapsed since Hubble horizon of the long mode.
+Note that we have normalized the shape functions to unity in the equilateral configuration. The measure of time is expressed in number of efolds elapsed since Hubble horizon exit of the long mode.
