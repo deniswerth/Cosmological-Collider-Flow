@@ -12,6 +12,10 @@ This folder contains the movies of the time evolution of the Cosmological Collid
 We are interested in the three-point correlation function of the curvature perturbation in Fourier space, known as the bispectrum. Following standard conventions, we define the dimensionless shape function S such that 
 
 $$
+\langle X^{\mathsf{a}}(\vec{k}_1) X^{\mathsf{b}}(\vec{k}_2)\rangle = (2\pi)^3 \delta^{(3)}(\vec{k}_1 + \vec{k}_2) \Sigma^{\mathsf{ab}}(k_1),
+$$
+
+$$
 \langle \zeta_{\vec{k}_ 1} \zeta_{\vec{k}_ 2} \zeta_{\vec{k}_ 3}\rangle' = \frac{(2\pi)^4}{(k_1 k_2 k_3)^2} \Delta_\zeta^4 S(k_1, k_2, k_3),
 $$
 
