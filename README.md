@@ -5,7 +5,7 @@ This folder contains the movies of the time evolution of the Cosmological Collid
 ### Cosmological Flow of Inflationary Correlators
 
 * [Denis Werth](mailto:werth@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP)
-* [Lucas Pinol](mailto:pinol@iap.fr) -- Instituto de Física Teórica (IFT) Madrid
+* [Lucas Pinol](mailto:lucas.pinol@phys.ens.fr) -- Instituto de Física Teórica (IFT) Madrid
 * [Sébastien Renaux-Petel](mailto:petel@iap.fr) -- CNRS, Institut d'Astrophysique de Paris (IAP)
 
 
